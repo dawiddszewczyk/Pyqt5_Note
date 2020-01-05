@@ -1,0 +1,13 @@
+﻿04.05.2018
+1. Opracowano prototypową responsywność
+2. Stworzono klasę (okno) do wyświetlania komunikatów o przebiegu działania
+
+05.05.2018
+1. Dodano przyciski do przesuwania zadań
+2. Przepisano pętlę do wyświetlania poprzednich zadań (wymaga analizy i poprawy)
+
+21.05.2018
+1. Poprawiono i opracowano funkcje służące do scrollowania
+2. Dodano przycisk czytaj więcej oraz nowe okno z pełną treścią zadania
+3. Dodano plik .sql z przykładowo wypełnioną bazą
+
